@@ -1,0 +1,47 @@
+---
+layout: page
+title: Teaching & Experience
+permalink: /experience/
+---
+
+## Teaching Contributions
+
+### University College Cork
+
+#### Current
+
+Digital Humanities: Theories, Concepts, & Practices (DH2001)  
+Computer-assisted Text Analysis for the Arts & Humanities (DH2007)  
+European Cultural Identities: Cultural Capitals, Barcelona. (LL3102) 
+Translating Business, Culture and Society in the Hispanic World (HS3004)
+Research Methods (LL6901)
+Research Project in Hispanic Studies (HS1007)
+First Year Spanish Language for Beginners (HS1101)
+Second Year Spanish Language for ex-Beginners (HS2101)
+Final Year Spanish Language (HS3001)
+
+#### Previous
+
+Catalonia and the Catalan Language I (HS2022)
+Catalan Language III (HS3022)
+
+### Faculty Appointments
+
+College Language Teacher (2017-present)
+School of Languages, Literatures and Cultures, University College Cork
+
+### Professional Service & Administrative Responsibilities
+
+#### Current
+
+Co-Director, DHSI Atlantic (2019-)
+
+[Evening Language Courses Programme](http://uccsplaslang.ucc.ie/) Coordinator. Department of Spanish, Portuguese and Latin American Studies, University College Cork (2016-)
+
+Second Year Spanish Language Coordinator (Sept 2019 - Dec 2019)
+
+Technical Editor of [JOCS](http://jocs.anglo-catalan.org/ojsnew/index.php/jocs/index) (Journal of Catalan Studies) (2015 - )
+
+Postgraduate Scholarships Coordinator and committee member. [The Anglo-Catalan Society](https://www.anglo-catalan.org/). (2013- )   
+
+
