@@ -3,7 +3,7 @@
 # To return to the original homepage change "layout: home" and remove all other content.
 
 layout: page
-title: Welcome
+title: Home
 nav_order: 1
 ---
 
