@@ -23,6 +23,7 @@ Final Year Spanish Language (HS3001)
 #### Previous
 
 Catalonia and the Catalan Language I (HS2022)
+
 Catalan Language III (HS3022)
 
 ### Faculty Appointments
