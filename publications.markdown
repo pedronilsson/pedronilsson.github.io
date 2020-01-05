@@ -10,6 +10,7 @@ nav-order: 2
 ### Book Chapters
 
 Nilsson-Fernàndez, Pedro. “Alba, mare eterna: espais de violència i l''Última Dona' a *Mecanoscrit del segon origen*.” *Explorant Mecanoscrit del segon origen: noves lectures* edited by Sara Martín Alegre, 2018 pp. 84-114. [[WorldCat](https://www.worldcat.org/title/explorant-mecanoscrit-del-segon-origen-noves-lectures/oclc/1117443467&referer=brief_results)]
+
 Nilsson-Fernàndez, Pedro. “Escrivim la terra: Spatial Allegories in Manuel de Pedrolo's Aquesta matinada i potser per sempre.” *Ciència i ficció: l'exploració creativa dels mons reals i dels irreals* edited by Pasqual Bernat López, Eduard Castanyo, Carles Gámez, Víctor Martínez-Gil, Anna M. Moreno, A. Munné-Jordà, 2017, pp. 55-62.[[WorldCat](https://www.worldcat.org/title/cincia-i-ficci-lexploraci-creativa-dels-mons-reals-i-dels-irreals/oclc/1120412277&referer=brief_results)]
 
 
@@ -25,6 +26,7 @@ O’Sullivan, James & Nilsson-Fernàndez, Pedro. “#ELOCork Special Issue.” *
 ## Digital Projects
 
 [Pedrolo Digital](http://pedrolodigital.cat) (2015)
+
 [Temps Obert 11.1](http://tempsobert.pfdorado.com/) (2013)
  
 
