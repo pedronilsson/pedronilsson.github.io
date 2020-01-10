@@ -7,6 +7,8 @@ permalink: /education/
 Ph.D. in Hispanic Studies and Digital Arts & Humanities  
 University College Cork (2019)  
 Department of Spanish, Portuguese and Latin American Studies / Department of Digital Arts and Humanities
+Mapping the works of Manuel de Pedrolo in relation to the post-civil war Catalan landscape. [CORA](https://cora.ucc.ie/handle/10468/8959)
+
 
 M.Res. in Hispanic Studies  
 University College Cork (2013)  
