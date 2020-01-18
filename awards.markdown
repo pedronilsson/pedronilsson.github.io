@@ -15,4 +15,5 @@ Student Universal Support Ireland partial grant to cover Masters’ fees (€2.
 ## Guest lectures
 
 Queen Mary University of London – December 2018 – [Re-Mapping Catalonia: A Digital Historic Route through Manuel de Pedrolo’s Mecanoscrit del segon origen](https://ccsqmul.com/queen-mary-catalan-seminars/).
+
 University of Lleida, Catalonia – October 2018 – [Avui llegirem 20.000 pàgines. Estilometria pedroliana](http://www.catedramariustorres.udl.cat/activitats/conferencies.php#conf_13)
