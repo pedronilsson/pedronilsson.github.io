@@ -9,7 +9,7 @@ nav-order: 2
 
 ### Edited Journals
 
-Nilsson-Fernàndez, Pedro and James O’Sullivan. “ELO2019 Gathering (Cork, Ireland)“ *Electronic Book Review*, May 3, 2020. [Online](https://electronicbookreview.com/gathering/elo2019-cork-ireland/).
+Nilsson-Fernàndez, Pedro and O’Sullivan, James. “ELO2019 Gathering (Cork, Ireland)“ *Electronic Book Review*, May 3, 2020. [Online](https://electronicbookreview.com/gathering/elo2019-cork-ireland/).
 
 ### Book Chapters
 
