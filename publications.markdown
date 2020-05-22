@@ -7,6 +7,10 @@ nav-order: 2
 
 ## Scholarly Publications
 
+### Edited Journals
+
+Nilsson-Fernàndez, Pedro and James O’Sullivan. “ELO2019 Gathering (Cork, Ireland)“ *Electronic Book Review*, May 3, 2020. [Online](https://electronicbookreview.com/gathering/elo2019-cork-ireland/).
+
 ### Book Chapters
 
 Nilsson-Fernàndez, Pedro. “Alba, mare eterna: espais de violència i l''Última Dona' a *Mecanoscrit del segon origen*.” *Explorant Mecanoscrit del segon origen: noves lectures* edited by Sara Martín Alegre, 2018 pp. 84-114. [[WorldCat](https://www.worldcat.org/title/explorant-mecanoscrit-del-segon-origen-noves-lectures/oclc/1117443467&referer=brief_results)]
@@ -18,10 +22,6 @@ Nilsson-Fernàndez, Pedro. “Escrivim la terra: Spatial Allegories in Manuel de
 
 Nilsson-Fernàndez, Pedro "Alba as Eternal Mother: Violent Spaces and the ‘Last Woman’ in Manuel de Pedrolo’s "Mecanoscrit del segon origen"," Alambique: Revista académica de ciencia ficción y fantasia / Jornal acadêmico de ficção científica e fantasía, Vol. 4 : Iss. 2 , 2017.[[DOI](http://dx.doi.org/10.5038/2167-6577.4.2.4)]
 
-
-### Edited Journals
-
-O’Sullivan, James & Nilsson-Fernàndez, Pedro. “#ELOCork Special Issue.” *Electronic Book Review*, (upcoming)
 
 ## Digital Projects
 
