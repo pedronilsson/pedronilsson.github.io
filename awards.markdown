@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Awards & Honours
+nav_order: 4
 permalink: /awards/
 ---
 
