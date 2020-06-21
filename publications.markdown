@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-nav-order: 2
+nav-order: 5
 ---
 
 ## Scholarly Publications
