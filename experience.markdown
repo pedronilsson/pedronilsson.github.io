@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Teaching & Experience
+nav_order: 3
 permalink: /experience/
 ---
 
@@ -43,7 +44,9 @@ School of Languages, Literatures and Cultures, University College Cork
 
 #### Current
 
-Co-Director, DHSI Atlantic (2019-)
+Co-organiser of [En català! II Webcongrés Internacional 2020](https://encatala.vives.org/), a digital initiative to promote Catalan language in schools around Catalonia hosted by MMLL at University of Cambridge and University College Cork.
+
+Co-Director, DHSI Atlantic (2020-)
 
 [Evening Language Courses Programme](http://uccsplaslang.ucc.ie/) Coordinator. Department of Spanish, Portuguese and Latin American Studies, University College Cork (2016-)
 
