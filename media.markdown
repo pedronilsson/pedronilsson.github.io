@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Media
+nav_order: 6
 permalink: /media/
 ---
 
