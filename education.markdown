@@ -2,6 +2,7 @@
 layout: page
 title: Education
 permalink: /education/
+nav_order: 2
 ---
 
 Ph.D. in Hispanic Studies and Digital Arts & Humanities  
