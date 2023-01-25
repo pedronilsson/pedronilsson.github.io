@@ -27,7 +27,7 @@ Nilsson-Fernàndez, Pedro "Alba as Eternal Mother: Violent Spaces and the ‘Las
 
 ## Digital Projects
 
-[Arxiu Històric de l'Anglo-Catalan Society]([http://pedrolodigital.cat](http://arxiu.anglo-catalan.org/omekas/s/acs/page/inici)) (2022)
+[Arxiu Històric de l'Anglo-Catalan Society](http://arxiu.anglo-catalan.org/omekas/s/acs/page/inici)) (2022)
 
 [Pedrolo Digital](http://pedrolodigital.cat) (2015)
 
