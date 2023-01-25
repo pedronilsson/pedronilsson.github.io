@@ -7,7 +7,7 @@ permalink: /awards/
 
 ## Awards
 
-[XXXIV Premi Batista i Roca for the Promotion of Catalan Language and Culture Abroad](https://www.ucc.ie/en/sllc/news/dr-pedro-nilsson-fernandez-awarded-the-xxxiv-premi-josep-m-batista-i-roca-.html)
+[XXXIV Premi Batista i Roca for the Promotion of Catalan Language and Culture Abroad](https://www.ucc.ie/en/sllc/news/dr-pedro-nilsson-fernandez-awarded-the-xxxiv-premi-josep-m-batista-i-roca-.html) (2022)
 
 
 ## Grants
