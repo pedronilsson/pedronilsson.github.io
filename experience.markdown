@@ -7,7 +7,7 @@ permalink: /experience/
 
 ## Teaching Contributions
 
-### University College Cork ([Refer to UCC's Book of Modules](https://ucc-ie-public.courseleaf.com/modules/) for further information on below courses).
+### University College Cork (Refer to [UCC's Book of Modules](https://ucc-ie-public.courseleaf.com/modules/) for further information on below courses).
 
 #### Current
 
@@ -17,6 +17,11 @@ Gender, Race and the Digital Humanities (DH2009)
 
 Curation and Storytelling in the Digital Age (DH2006)
 
+Digital Arts and Humanities Research Colloquium (DH4001)
+
+Contemporary Practices in Publishing and Editing (DH6012)
+
+Digital Skills for Research Postgraduates in the Humanities and Social Science (DH6014)
 
 #### Previous
 
