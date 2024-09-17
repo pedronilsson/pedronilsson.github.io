@@ -7,6 +7,7 @@ permalink: /experience/
 
 ## Teaching Contributions
 
+
 ### University College Cork (Refer to [UCC's Book of Modules](https://ucc-ie-public.courseleaf.com/modules/) for further information on below courses).
 
 #### Current
@@ -22,6 +23,7 @@ Digital Arts and Humanities Research Colloquium (DH4001)
 Contemporary Practices in Publishing and Editing (DH6012)
 
 Digital Skills for Research Postgraduates in the Humanities and Social Science (DH6014)
+
 
 #### Previous
 
@@ -43,6 +45,7 @@ Catalonia and the Catalan Language I (HS2022)
 
 Catalan Language III (HS3022)
 
+
 ### Faculty Appointments
 
 Lecturer in Digital Humanities (2023 - )
@@ -51,11 +54,14 @@ School of English and Digital Humanities, University College Cork.
 College Language Teacher (2017-2023)
 School of Languages, Literatures and Cultures, University College Cork
 
+
 ### Professional Service & Administrative Responsibilities
 
 #### Current
 
 Co-convenor of the [_Multilingual Digital Humanities_ Community Interest Group](https://digitalhumanities-uk-ie.org/community-interest-groups/multilingual-dh/), UK-Ireland Association for Digital Humanities.
+
+#### Previous
 
 Co-organiser of [En català! II Webcongrés Internacional 2020](https://encatala.vives.org/), a digital initiative to promote Catalan language in schools around Catalonia hosted by MMLL at University of Cambridge and University College Cork.
 
