@@ -7,13 +7,18 @@ permalink: /experience/
 
 ## Teaching Contributions
 
-### University College Cork
+### University College Cork ([Refer to UCC's Book of Modules](https://ucc-ie-public.courseleaf.com/modules/) for further information on below courses).
 
 #### Current
 
 Digital Humanities: Theories, Concepts, & Practices (DH2001)
 
-Computer-assisted Text Analysis for the Arts & Humanities (DH2007)
+Gender, Race and the Digital Humanities (DH2009)
+
+Curation and Storytelling in the Digital Age (DH2006)
+
+
+#### Previous
 
 European Cultural Identities: Cultural Capitals, Barcelona. (LL3102)
 
@@ -29,24 +34,25 @@ Second Year Spanish Language for ex-Beginners (HS2101)
 
 Final Year Spanish Language (HS3001)
 
-#### Previous
-
 Catalonia and the Catalan Language I (HS2022)
 
 Catalan Language III (HS3022)
 
 ### Faculty Appointments
 
-College Language Teacher (2017-present)
+Lecturer in Digital Humanities (2023 - )
+School of English and Digital Humanities, University College Cork.
+
+College Language Teacher (2017-2023)
 School of Languages, Literatures and Cultures, University College Cork
 
 ### Professional Service & Administrative Responsibilities
 
 #### Current
 
-Co-organiser of [En català! II Webcongrés Internacional 2020](https://encatala.vives.org/), a digital initiative to promote Catalan language in schools around Catalonia hosted by MMLL at University of Cambridge and University College Cork.
+Co-convenor of the [_Multilingual Digital Humanities_ Community Interest Group](https://digitalhumanities-uk-ie.org/community-interest-groups/multilingual-dh/), UK-Ireland Association for Digital Humanities.
 
-Co-Director, DHSI Atlantic (2020-)
+Co-organiser of [En català! II Webcongrés Internacional 2020](https://encatala.vives.org/), a digital initiative to promote Catalan language in schools around Catalonia hosted by MMLL at University of Cambridge and University College Cork.
 
 [Evening Language Courses Programme](http://uccsplaslang.ucc.ie/) Coordinator. Department of Spanish, Portuguese and Latin American Studies, University College Cork (2016-)
 
