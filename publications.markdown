@@ -24,6 +24,9 @@ Nilsson-Fernàndez, Pedro. “Escrivim la terra: Spatial Allegories in Manuel de
 
 Nilsson-Fernàndez, Pedro "Alba as Eternal Mother: Violent Spaces and the ‘Last Woman’ in Manuel de Pedrolo’s "Mecanoscrit del segon origen"," Alambique: Revista académica de ciencia ficción y fantasia / Jornal acadêmico de ficção científica e fantasía, Vol. 4 : Iss. 2 , 2017.[[DOI](http://dx.doi.org/10.5038/2167-6577.4.2.4)]
 
+### Reports
+
+Nilsson-Fernàndez, Pedro, Paul Spence, and Naomi Wells. “Multilingual DH in the UK and Ireland: Summary Report and Future Recommendations”. Zenodo, September, 2024. [[DOI](https://doi.org/10.5281/zenodo.13683711)
 
 ## Digital Projects
 
