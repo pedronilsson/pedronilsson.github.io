@@ -69,10 +69,10 @@ Co-organiser of [En català! II Webcongrés Internacional 2020](https://encatala
 
 Second Year Spanish Language Coordinator (Sept 2019 - Dec 2019)
 
-Editor of JOCS (2019-)
+Editor of JOCS (2019-2023)
 
-Technical Editor of [JOCS](http://jocs.anglo-catalan.org/ojsnew/index.php/jocs/index) (Journal of Catalan Studies) (2015 - )
+Technical Editor of [JOCS](http://jocs.anglo-catalan.org/ojsnew/index.php/jocs/index) (Journal of Catalan Studies) (2015-2023)
 
-Postgraduate Scholarships Coordinator and committee member. [The Anglo-Catalan Society](https://www.anglo-catalan.org/). (2013- )   
+Postgraduate Scholarships Coordinator and committee member. [The Anglo-Catalan Society](https://www.anglo-catalan.org/). (2013-2016)   
 
 
